@@ -1,7 +1,7 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "[![License: MIT](https://img.shields.io/github/license/CailinBellWold/Team-Profile-Generator?style=plastic)](https://opensource.org/licenses/MIT)",
+  "description": "[![License: MIT](https://img.shields.io/github/license/Alice Waweru/Team-Profile-Generator?style=plastic)](https://opensource.org/licenses/MIT)",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CailinBellWold/Team-Profile-Generator.git"
+    "url": "git+https://github.com/alicewaweru28/Team-Profile-Generator.git"
   },
-  "author": "Cailin Bell Wold",
+  "author": "Alice Waweru",
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.9.0"
   },
   "bugs": {
-    "url": "https://github.com/CailinBellWold/Team-Profile-Generator/issues"
+    "url": "https://github.com/Alice Waweru/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/CailinBellWold/Team-Profile-Generator#readme",
+  "homepage": "https://github.com/alicewaweru28/Team-Profile-Generator#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "fs": "0.0.1-security",
